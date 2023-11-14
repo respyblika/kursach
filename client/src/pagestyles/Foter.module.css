@@ -1,0 +1,86 @@
+.root{
+    display: flex;
+    width: 1920px;
+    height: 350px;
+    flex-shrink: 0;
+    justify-content: space-around;
+    align-items: flex-start;
+    background: linear-gradient(180deg, #161723 0%, #161723 109.24%);
+}
+
+.logo{
+    width: 280px;
+    height: 38px;
+    flex-shrink: 0;
+    padding: 0 0 119px;
+}
+
+.left{
+    width: max-content;
+    Justify-content: left;
+    padding: 78px 0 0 260px;
+}
+
+.text2{
+    color: #404256;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 21px */
+    Text-align: left;
+}
+
+.spisoc{
+    width: max-content;
+    Justify-content: left;
+    padding: 78px 0 0 120px;
+}
+
+.katalog{
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 150%; /* 33px */
+    padding: 0 0 17px;
+    Text-align: left;
+}
+
+.text{
+    color: #C0C2D7;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding: 0 0 12px;
+    width:100% ;
+    Text-align: left;
+}
+
+.pravo{
+    width: max-content;
+    Justify-content: left;
+    padding: 78px 0 0 200px;
+}
+
+.telefon{
+    color: #C0C2D7;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: flex;
+    gap: 30px;
+}
+
+.picture{
+    flex-shrink: 0;
+    display: flex;
+    gap: 22px;
+    Text-align: right;
+    padding: 146px 0 0 0;
+}

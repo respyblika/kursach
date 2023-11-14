@@ -1,0 +1,68 @@
+.root{
+    width: 1920px;
+    height: 80px;
+    background: #FFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Montserrat;
+}
+
+.logo{
+    width: 280px;
+    height: 38px;
+    flex-shrink: 0;
+    padding: 21px 15px 21px 60px ;
+}
+
+.map{
+    color: #333;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.pyk{
+    width: 136px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 200px;
+    background: #F4683F;
+    border: none;
+}
+
+.choto{
+    color: #333;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+    display: flex;
+    gap: 30px;
+}
+
+.telefon{
+    color: #333;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: flex;
+    gap: 30px;
+}
+
+.poisk{
+    color: #333;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: flex;
+    gap: 30px;
+}
